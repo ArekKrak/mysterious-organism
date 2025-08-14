@@ -47,10 +47,10 @@ mysterious-organism/
 ## How It Works
 
 1. **Random DNA Base Generation**  
-   - `returnRandBase()` returns `'A'`, `'T'`, `'C'`, or `'G'` at random.
+   - `returnRandBase()` → returns `'A'`, `'T'`, `'C'`, or `'G'` at random.
 
 2. **Random DNA Strand Creation**  
-   - `mockUpStrand()` creates an array of 15 random DNA bases.
+   - `mockUpStrand()` → creates an array of 15 random DNA bases.
 
 3. **Specimen Factory**  
    - `pAequorFactory(specimenNum, dna)` → returns an object with:
