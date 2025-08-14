@@ -53,7 +53,7 @@ mysterious-organism/
    - `mockUpStrand()` creates an array of 15 random DNA bases.
 
 3. **Specimen Factory**  
-   - `pAequorFactory(specimenNum, dna)` returns an object with:
+   - `pAequorFactory(specimenNum, dna)` → returns an object with:
      - `.mutate()` → changes one random base to a different base.
      - `.compareDNA(otherSpecimen)` → compares DNA and logs similarity.
      - `.willLikelySurvive()` → returns `true` if at least 60% bases are `C` or `G`.
