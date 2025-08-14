@@ -2,7 +2,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-Environment-339933?logo=node.js&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white&style=flat)](https://github.com/YourUsername/mysterious-organism)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white&style=flat)](https://github.com/ArekKrak/mysterious-organism)
 
 A JavaScript simulation for studying the fictional deep-sea organism **Pila aequor (P. aequor)**, developed as part of the Codecademy *Challenge Project: Mysterious Organism*.  
 This program generates, mutates, and compares DNA strands to model survival probabilities under specific conditions.
