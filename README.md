@@ -39,7 +39,7 @@ Create JavaScript objects to simulate P. aequor’s DNA, mutations, DNA comparis
 
 ```
 mysterious-organism/
-├── main.js       # JavaScript implementation of the simulation
+├── main.js       # Main program logic
 └── README.md     # Project documentation
 ```
 
